@@ -1,0 +1,8 @@
+{
+  "name": "woof",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react-router": "^5.0.0"
+  }
+}
